@@ -119,7 +119,7 @@ def build_main(tickers, prices):
 
 
 # Configurando o Layout da pagina
-# st.set_page_config(layout='wide')
+st.set_page_config(layout='wide')
 
 
 with st.sidebar:
