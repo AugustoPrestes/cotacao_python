@@ -1,0 +1,2 @@
+-- Criar api que consulta os tickets dentro do yfinance;
+-- 
