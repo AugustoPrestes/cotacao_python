@@ -72,7 +72,7 @@ def build_main(tickers, prices):
         if t == "portfolio":
             colA.image("imagem/grafico.png")
         elif t == "IBOV":
-            colA.image("images/pie-chart-svgrepo-com.svg")
+            colA.image("imagem/b3.png")
         else:
             colA.image(f'https://raw.githubusercontent.com/thefintz/icones-b3/main/icones/{t}.png', width=85)
 
